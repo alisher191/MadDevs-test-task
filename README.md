@@ -25,4 +25,4 @@ python3 -m unittest
 ____________________________________________________
 ## P.S.
 
-##### at the moment the code only works with the "< p >" tag
+##### at the moment the code works only with the "< p >" tag
