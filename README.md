@@ -1,6 +1,6 @@
 # About task
 
-HTML fragmentation
+HTML fragmentation.
 Splitting the original HTML message into fragments so that each of these fragments 
 contains the correct tag structure and, accordingly, contains the correct HTML.
 ____________________________________________________
