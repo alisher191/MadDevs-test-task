@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 
 ##### Run main file
 ```
-python3 main.py
+python3 msg_split.py
 ```
 
 ##### Run unittest
