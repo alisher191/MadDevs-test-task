@@ -1,7 +1,7 @@
 # This is a test assignment for the position of an intern at MadDevs
 
 
-#### to run the unittest enter
+#### run unittest
 ```
 python3 -m unittest
 ```
